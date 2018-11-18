@@ -1,0 +1,13 @@
+name: nsh
+version: 0.1.0
+
+authors:
+  - Nish Tahir <nish.tahir@willowtreeapps.com>
+
+targets:
+  nsh:
+    main: src/nsh.cr
+
+crystal: 0.27.0
+
+license: MIT
